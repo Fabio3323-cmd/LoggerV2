@@ -40,15 +40,6 @@ This data may be collected automatically by some Services. This data is used to 
 
 -   Any data needed for standard operation of Bots, such as Server permissions and members. This data is stored in the cache of the Bot, and will not be stored long-term.
 
-#### Collected via Authorization
-
-Associated Services allow you to sign into the Service using Discord Oauth2, which provides the Service with additional data. Not every Associated Service will request the same data, the data requested for each Service is outlined on the Oauth2 Authorization page. This data is stored short-term in Redis.
-
--   Basic Discord profile information, such as username and discriminator, Discord ID, and Avatar data
--   List of Servers your account is connected to
--   E-mail address
--   Discord account connections, such as Steam, Reddit, etc
-
 ### Why we collect data
 
 We collect data to facilitate functions of Services, and to provide us with analytical data about Bots’ usage and behavioral patterns.
@@ -71,14 +62,11 @@ Data is stored in PostgreSQL, and deleted after two days time or upon message de
 #### When a member joins a Server with the Bot present
 Invite codes from Discord are stored short-term in Redis.
 
-#### When an archive is created
-When a message bulk delete event is received, a human-readable transcript of these messages will be stored for two weeks at the preview site, https://haste.logger.bot 
-
 ### Your rights to your data
 
 Pursuant to Intergalactic Law, you have the right to request a machine-readable copy of your data for portability’s sake and the right to have your data deleted from the Service.
 
-Should you wish to enforce one of these rights, please email us at [hello@curtisf.dev](mailto:hello@curtisf.dev), or send a private message to any developer mentioned on our [Discord server](https://discord.gg/ed7Gaa3), we will strive to respond to your request within 30 days.
+Should you wish to enforce one of these rights, please email us at [hello@curtisf.dev](mailto:support@fabio3323.xyz), or send a private message to any developer mentioned on our [Discord server]([https://discord.gg/KBDJWY44cx]), we will strive to respond to your request within 30 days.
 
 ### Feedback
 
