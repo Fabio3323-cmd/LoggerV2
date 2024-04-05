@@ -16,5 +16,4 @@ As soon as you use Logger V2 or have invited to a server, you automatically agre
     - The bot should only be used for legal purposes.
 
 # 3 - Contact.
-
-    If you need help or similar, you are welcome to contact the [support server](https://discord.gg/KBDJWY44cx).
+- If you need help or similar, you are welcome to contact the [support server](https://discord.gg/KBDJWY44cx).
