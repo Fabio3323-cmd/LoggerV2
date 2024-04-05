@@ -66,7 +66,7 @@ Invite codes from Discord are stored short-term in Redis.
 
 Pursuant to Intergalactic Law, you have the right to request a machine-readable copy of your data for portability’s sake and the right to have your data deleted from the Service.
 
-Should you wish to enforce one of these rights, please email us at [hello@curtisf.dev](mailto:support@fabio3323.xyz), or send a private message to any developer mentioned on our [Discord server]([https://discord.gg/KBDJWY44cx]), we will strive to respond to your request within 30 days.
+Should you wish to enforce one of these rights, please email us at [support@mail.fabio3323.xyz](mailto:support@mail.fabio3323.xyz), or send a private message to any developer mentioned on our [Discord server](https://discord.gg/KBDJWY44cx), we will strive to respond to your request within 30 days.
 
 ### Feedback
 
